@@ -2,7 +2,7 @@
   "name": "react-budget-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jaewonhimnae.github.io/react-budget-deploy-test-app",
+  "homepage": "https://re-note.github.io/DEEPDIVE_Creating-a-CRUD-app-using-React",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
