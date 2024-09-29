@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DEEPDIVE_Creating-a-CRUD-app-using-React/static/css/main.358b5fd7.css",
+    "main.js": "/DEEPDIVE_Creating-a-CRUD-app-using-React/static/js/main.d8d62569.js",
+    "static/js/787.e86158d1.chunk.js": "/DEEPDIVE_Creating-a-CRUD-app-using-React/static/js/787.e86158d1.chunk.js",
+    "index.html": "/DEEPDIVE_Creating-a-CRUD-app-using-React/index.html",
+    "main.358b5fd7.css.map": "/DEEPDIVE_Creating-a-CRUD-app-using-React/static/css/main.358b5fd7.css.map",
+    "main.d8d62569.js.map": "/DEEPDIVE_Creating-a-CRUD-app-using-React/static/js/main.d8d62569.js.map",
+    "787.e86158d1.chunk.js.map": "/DEEPDIVE_Creating-a-CRUD-app-using-React/static/js/787.e86158d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.358b5fd7.css",
+    "static/js/main.d8d62569.js"
+  ]
+}
